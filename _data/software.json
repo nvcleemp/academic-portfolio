@@ -19,7 +19,7 @@
   },
   {
     "name": "azul",
-    "description": "A comprehensive library for working with graph structures and algorithms in combinatorial research.",
+    "description": "Tools for generating and visualizing toroidal azulenoids.",
     "image": "/images/azul.png",
     "url": "https://caagt.ugent.be/azul"
   },

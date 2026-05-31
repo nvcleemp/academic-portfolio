@@ -9,6 +9,7 @@ module.exports = function(eleventyConfig) {
   
   // Set custom directories
   return {
+    pathPrefix: "/academic/",
     dir: {
       input: ".",
       includes: "_includes",

@@ -7,7 +7,7 @@ title: Nico Van Cleemput
 <div class="tab-panel" data-tab="contact">
   <section class="profile-section">
     <div>
-      <img src="/images/nvcleemp.jpg" alt="Nico Van Cleemput" class="profile-image" id="headshot">
+      <img src="{{ '/images/nvcleemp.jpg' | url }}" alt="Nico Van Cleemput" class="profile-image" id="headshot">
     </div>
     <div class="card">
       <h3>Contact Information</h3>
@@ -24,7 +24,7 @@ title: Nico Van Cleemput
   </section>
   
   <section class="mt-lg">
-    <img src="/images/valencia-cut.jpg" alt="Valencia" style="width: 100%; border-radius: 8px; box-shadow: var(--shadow-md);">
+    <img src="{{ '/images/valencia-cut.jpg' | url }}" alt="Valencia" style="width: 100%; border-radius: 8px; box-shadow: var(--shadow-md);">
   </section>
 </div>
 
@@ -155,7 +155,7 @@ title: Nico Van Cleemput
     <div class="card phd-wrapper">
       <div class="profile-section">
         <div>
-          <img src="/images/thesis.png" alt="PhD Dissertation Cover" class="profile-image">
+          <img src="{{ '/images/thesis.png' | url }}" alt="PhD Dissertation Cover" class="profile-image">
         </div>
         <div class="card">
           <h3>PhD Dissertation</h3>
@@ -176,7 +176,7 @@ title: Nico Van Cleemput
       <ul>
         {% for conf in conferences %}
           {% if conf.type == "talk" %}
-        <li>{{ conf.title }} ({{ conf.location }}, {{ conf.date }}): {% if conf.talkTitle %}{{ conf.talkTitle }}{% endif %}{% if conf.notes %} ({{ conf.notes }}){% endif %}{% if conf.links %}: {% for link in conf.links %}<a href="{{ link.url }}" target="_blank">{{ link.type | capitalize }}</a>{% if not loop.last %}/{% endif %}{% endfor %}{% endif %}</li>
+        <li>{{ conf.title }} ({{ conf.location }}, {{ conf.date }}): {% if conf.talkTitle %}{{ conf.talkTitle }}{% endif %}{% if conf.notes %} ({{ conf.notes }}){% endif %}{% if conf.links %}: {% for link in conf.links %}<a href="{{ link.url | url }}" target="_blank">{{ link.type | capitalize }}</a>{% if not loop.last %}/{% endif %}{% endfor %}{% endif %}</li>
           {% endif %}
         {% endfor %}
       </ul>
@@ -187,7 +187,7 @@ title: Nico Van Cleemput
       <ul>
         {% for conf in conferences %}
           {% if conf.type == "poster" %}
-        <li>{{ conf.title }} ({{ conf.date }}){% if conf.notes %} ({{ conf.notes }}){% endif %}{% if conf.links %}: {% for link in conf.links %}<a href="{{ link.url }}" target="_blank">{{ link.type | capitalize }}</a>{% if not loop.last %}/{% endif %}{% endfor %}{% endif %}</li>
+        <li>{{ conf.title }} ({{ conf.date }}){% if conf.notes %} ({{ conf.notes }}){% endif %}{% if conf.links %}: {% for link in conf.links %}<a href="{{ link.url | url }}" target="_blank">{{ link.type | capitalize }}</a>{% if not loop.last %}/{% endif %}{% endfor %}{% endif %}</li>
           {% endif %}
         {% endfor %}
       </ul>
@@ -236,7 +236,7 @@ title: Nico Van Cleemput
     <div class="software-grid">
       {% for sw in software %}
       <a href="{{ sw.url }}" target="_blank" class="card-software">
-        <img src="{{ sw.image }}" alt="{{ sw.name }}" class="card-software-bg">
+        <img src="{{ sw.image | url }}" alt="{{ sw.name }}" class="card-software-bg">
         <div class="card-software-content">
           <h3 class="card-software-title">{{ sw.name }}</h3>
           <p class="card-software-description">{{ sw.description }}</p>
@@ -252,7 +252,7 @@ title: Nico Van Cleemput
 (function() {
   const image = document.getElementById("headshot");
   if (image) {
-    const images = ["/images/nvcleemp.jpg", "/images/nvcleemp_oud.jpg"];
+    const images = ["{{ '/images/nvcleemp.jpg' | url }}", "{{ '/images/nvcleemp_oud.jpg' | url }}"];
     let currentPos = 0;
     
     function nextPicture() {

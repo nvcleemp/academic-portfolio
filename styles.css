@@ -459,6 +459,30 @@ img {
   color: var(--color-text-light);
 }
 
+/* Additional links nested within publications */
+.publications-list .additional-links {
+  margin-top: 0.25rem;
+  margin-bottom: 0;
+  margin-left: 0;
+  padding-left: var(--spacing-lg);
+  list-style: none;
+  font-size: 0.875em;
+}
+
+.publications-list .additional-links li {
+  margin-bottom: 0.15rem;
+  padding-left: 1.2em;
+  position: relative;
+}
+
+.publications-list .additional-links li::before {
+  content: "→";
+  position: absolute;
+  left: 0;
+  color: var(--color-text-light);
+  font-size: 0.9em;
+}
+
 /* ===================================
    Responsive Design
    =================================== */

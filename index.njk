@@ -131,6 +131,13 @@ title: Nico Van Cleemput
           {%- if pub.link2 %} or <a href="{{ pub.link2 }}">(direct link)</a>{% endif %}
         ){% endif %}
         {%- if pub.status == "submitted" %}, submitted{% endif %}.
+        {%- if pub.additionalLinks %}
+        <ul class="additional-links">
+          {% for link in pub.additionalLinks %}
+          <li><a href="{{ link.url }}">{{ link.label }}</a>{% if link.text %}: {{ link.text }}{% endif %}</li>
+          {% endfor %}
+        </ul>
+        {%- endif %}
       </li>
       {% endfor %}
     </ol>

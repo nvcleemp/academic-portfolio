@@ -605,5 +605,33 @@
     "date": "12/08/2019 - 14/08/2019",
     "collaborators": "together with Jan Goedgebeur and Carol T. Zamfirescu",
     "url": "http://www.ggtw.ugent.be"
+  },
+  {
+    "type": "organized",
+    "title": "Belgium Graph Theory Conference on Structure and Algorithms 2023",
+    "location": "Ghent, Belgium",
+    "date": "9/08/2023 - 11/08/2023",
+    "collaborators": "together with an Goedgebeur, Davide Mattiolo, Nico Van Cleemput, Heidi Van den Camp, Steven Van Overberghe, and Carol T. Zamfirescu",
+    "url": "http://bgtc.ugent.be"
+  },
+  {
+    "type": "attended",
+    "title": "Computers in Scientific Discovery 9",
+    "location": "Montreal, Canada",
+    "date": "19/08/2019 - 25/08/2019"
+  },
+  {
+    "type": "attended",
+    "title": "Computers in Scientific Discovery 10",
+    "location": "Kortrijk, Belgium",
+    "date": "28/05/2024 - 30/05/2024",
+    "url": "https://csd10.be/"
+  },
+  {
+    "type": "attended",
+    "title": "Computers in Scientific Discovery 11",
+    "location": "Kranjska Gora, Slovenia",
+    "date": "4/05/2026 - 8/05/2026",
+    "url": "https://csd11.si/"
   }
 ]

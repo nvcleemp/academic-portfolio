@@ -1,34 +1,78 @@
 [
   {
-    "authors": "P. Brooks, D. Edwards, C.E. Larson, and N. Van Cleemput",
-    "title": "Conjecturing-Based Computational Discovery of Patterns in Data",
-    "arxiv": "https://arxiv.org/abs/2011.11576",
-    "status": "submitted"
+    "authors": "N. Van Cleemput",
+    "title": "Generation of Delaney-Dress graphs",
+    "status": "in preparation"
+  },
+  {
+    "authors": "G. Abrishami, F. Rahbarnia, N. Van Cleemput",
+    "title": "On non-traceable 3-connected planar cubic graphs of minimum order",
+    "journal": "Discrete Mathematics",
+    "volume": "349",
+    "issue": "6",
+    "year": 2026,
+    "doi": "https://doi.org/10.1016/j.disc.2026.114983"
   },
   {
     "authors": "O.-H. S. Lo, J. M. Schmidt, N. Van Cleemput, C. T. Zamfirescu",
     "title": "Shortness parameters of polyhedral graphs with few distinct vertex degrees",
-    "status": "submitted"
+    "journal": "Discrete Mathematics",
+    "volume": "348",
+    "issue": "8",
+    "year": 2025,
+    "doi": "https://doi.org/10.1016/j.disc.2025.114518"
   },
   {
-    "authors": "N. Van Cleemput",
-    "title": "Generation of Delaney-Dress graphs",
-    "status": "submitted"
+    "authors": "N. Bushaw, C. E. Larson, Nico Van Cleemput",
+    "title": "Automated Conjecturing for Mathematics Teaching and Research Projects",
+    "journal": "PRIMUS - Problems, Resources, and Issues in Mathematics Undergraduate Studies",
+    "volume": "35",
+    "issue": "6",
+    "year": 2025,
+    "pages": "636-653",
+    "doi": "https://doi.org/10.1080/10511970.2025.2507040"
   },
   {
-    "authors": "N. Bushaw, J. Chen, H. LaFayette, C. E. Larson, N. Van Cleemput",
-    "title": "Conjectured Bounds for the Independence Number of a Graph",
-    "status": "submitted"
+    "authors": "N. Bushaw, V. Gupta, C. E. Larson, S. Loeb, M. Norge, J. Parrish, N. Van Cleemput, J. Yirka and G. Wu",
+    "title": "New conditions for graph Hamiltonicity",
+    "journal": "Involve",
+    "volume": "18",
+    "issue": "1",
+    "year": 2025,
+    "pages": "79-89",
+    "doi": "https://doi.org/10.2140/involve.2025.18.79"
   },
   {
     "authors": "P. Brooks, D. Edwards, C.E. Larson, and N. Van Cleemput",
-    "title": "Automated Conjecturing IV: Scientific Discovery and Classification",
-    "status": "submitted"
-  },
-  {
-    "authors": "N. Bushaw, C.E. Larson, N. Van Cleemput",
-    "title": "Automated Conjectures for Graph Hamiltonicity",
-    "status": "submitted"
+    "title": "Conjecturing-Based Computational Discovery of Patterns in Data",
+    "journal": "INFORMS Journal on Data Science",
+    "volume": "3",
+    "issue": "2",
+    "year": 2024,
+    "pages": "179-202",
+    "doi": "https://doi.org/10.1287/ijds.2021.0043",
+    "arxiv": "https://arxiv.org/abs/2011.11576",
+    "additionalLinks": [
+      {
+        "label": "VCU News article",
+        "url": "https://business.vcu.edu/news-and-events/?post=998"
+      },
+      {
+        "label": "INFORMS award",
+        "text": "This paper was runner-up for the 2022 INFORMS SAS Data Mining Best Paper Award",
+        "url": "https://www.informs.org/Recognizing-Excellence/Community-Prizes/Data-Mining/SAS-Data-Mining-Best-Paper-Award"
+      },
+      {
+        "label": "Podcast",
+        "text": "A Google AI-generated podcast describing this research",
+        "url": "https://math1um.github.io/Research/brooks-conjecturing-podcast-2024.wav"
+      },
+      {
+        "label": "Code Ocean",
+        "text": "The Code Ocean capsule of the code for this paper",
+        "url": "https://codeocean.com/capsule/1538321/tree/v1"
+      }
+    ]
   },
   {
     "authors": "N. Van Cleemput, C. T. Zamfirescu",
@@ -176,7 +220,14 @@
     "volume": "338",
     "year": 2018,
     "pages": "192-206",
-    "doi": "https://doi.org/10.1016/j.amc.2018.05.062"
+    "doi": "https://doi.org/10.1016/j.amc.2018.05.062",
+    "additionalLinks": [
+      {
+        "label": "Pretty as a Picture (Part II)",
+        "text": "The main finding of this paper was mentioned in the September 2019 Feature Column of the American Mathematical Society, written by Joseph Malkevitch.",
+        "url": "https://www.ams.org/publicoutreach/feature-column/fc-2019-09"
+      }
+    ]
   },
   {
     "authors": "K. Ozeki, N. Van Cleemput, C. T. Zamfirescu",
@@ -314,7 +365,7 @@
     "link2": "http://hrcak.srce.hr/index.php?show=clanak&id_clanak_jezik=166555"
   },
   {
-    "authors": "G. Brinkmann, N. Van Cleemput, T.Pisanski",
+    "authors": "G. Brinkmann, N. Van Cleemput, T. Pisanski",
     "title": "Generation of various classes of trivalent graphs",
     "journal": "Theoretical Computer Science",
     "volume": "502",

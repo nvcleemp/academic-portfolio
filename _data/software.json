@@ -1,0 +1,38 @@
+[
+  {
+    "name": "CaGe",
+    "description": "A virtual environment for studying special classes of plane graphs with powerful visualization and generation capabilities.",
+    "image": "/images/cage.png",
+    "url": "https://caagt.ugent.be/CaGe"
+  },
+  {
+    "name": "CONJECTURING",
+    "description": "An automated conjecturing system that discovers mathematical relationships and generates conjectures from data.",
+    "image": "/images/wright.jpg",
+    "url": "https://nvcleemp.github.io/conjecturing"
+  },
+  {
+    "name": "Grinvin",
+    "description": "Graph invariants tool for exploring and analyzing structural properties of graphs through interactive computation.",
+    "image": "/images/grinvin.png",
+    "url": "http://www.grinvin.org"
+  },
+  {
+    "name": "azul",
+    "description": "A comprehensive library for working with graph structures and algorithms in combinatorial research.",
+    "image": "/images/azul.png",
+    "url": "https://caagt.ugent.be/azul"
+  },
+  {
+    "name": "cone",
+    "description": "Tools for generating and analyzing pseudoconvex polyhedra and nanocone structures in computational chemistry.",
+    "image": "/images/cone.png",
+    "url": "https://github.com/nvcleemp/pseudoconvex"
+  },
+  {
+    "name": "pregraphs",
+    "description": "A specialized toolkit for working with pregraph structures in graph theory and combinatorial generation.",
+    "image": "/images/pregraphs.png",
+    "url": "https://caagt.ugent.be/pregraphs"
+  }
+]

@@ -1,0 +1,364 @@
+[
+  {
+    "authors": "P. Brooks, D. Edwards, C.E. Larson, and N. Van Cleemput",
+    "title": "Conjecturing-Based Computational Discovery of Patterns in Data",
+    "arxiv": "https://arxiv.org/abs/2011.11576",
+    "status": "submitted"
+  },
+  {
+    "authors": "O.-H. S. Lo, J. M. Schmidt, N. Van Cleemput, C. T. Zamfirescu",
+    "title": "Shortness parameters of polyhedral graphs with few distinct vertex degrees",
+    "status": "submitted"
+  },
+  {
+    "authors": "N. Van Cleemput",
+    "title": "Generation of Delaney-Dress graphs",
+    "status": "submitted"
+  },
+  {
+    "authors": "N. Bushaw, J. Chen, H. LaFayette, C. E. Larson, N. Van Cleemput",
+    "title": "Conjectured Bounds for the Independence Number of a Graph",
+    "status": "submitted"
+  },
+  {
+    "authors": "P. Brooks, D. Edwards, C.E. Larson, and N. Van Cleemput",
+    "title": "Automated Conjecturing IV: Scientific Discovery and Classification",
+    "status": "submitted"
+  },
+  {
+    "authors": "N. Bushaw, C.E. Larson, N. Van Cleemput",
+    "title": "Automated Conjectures for Graph Hamiltonicity",
+    "status": "submitted"
+  },
+  {
+    "authors": "N. Van Cleemput, C. T. Zamfirescu",
+    "title": "Hamiltonian cycles and 1-factors in 5-regular graphs",
+    "journal": "Journal of Combinatorial Theory, Series B",
+    "issue": "154",
+    "year": 2022,
+    "pages": "239-261",
+    "month": "May",
+    "doi": "https://doi.org/10.1016/j.jctb.2021.12.008",
+    "arxiv": "https://arxiv.org/abs/2008.03173"
+  },
+  {
+    "authors": "E. Van Nieuwenhuyse, T. Strisciuglio, G. Lorenzo, M. El Haddad, J. Goedgebeur, N. Van Cleemput, C. Ley, A. V. Panfilov, J. de Pooter, Y. Vandekerckhove, R. Tavernier, M. Duytschaever, S. Knecht, N. Vandersickel",
+    "title": "Evaluation of Directed Graph-Mapping in Complex Atrial Tachycardias",
+    "journal": "JACC: Clinical Electrophysiology",
+    "volume": "7",
+    "issue": "7",
+    "year": 2021,
+    "month": "July",
+    "pages": "936-949",
+    "doi": "https://doi.org/10.1016/j.jacep.2020.12.013"
+  },
+  {
+    "authors": "G. Brinkmann, N. Van Cleemput",
+    "title": "4-connected polyhedra have at least a linear number of hamiltonian cycles",
+    "journal": "European Journal of Combinatorics",
+    "volume": "97",
+    "year": 2021,
+    "articleNumber": "103395",
+    "doi": "https://doi.org/10.1016/j.ejc.2021.103395"
+  },
+  {
+    "authors": "A. P. Burger, J. P. de Wet, M. Frick, N. Van Cleemput, C. T. Zamfirescu",
+    "title": "Planar Hypohamiltonian Oriented Graphs",
+    "journal": "Journal of Graph Theory",
+    "volume": "100",
+    "issue": "1",
+    "year": 2022,
+    "pages": "50-68",
+    "doi": "https://doi.org/10.1002/jgt.22765"
+  },
+  {
+    "authors": "I. Fabrici, M. Timkov, T. Madaras, N. Van Cleemput, C. T. Zamfirescu",
+    "title": "Non-hamiltonian graphs in which every edge-contracted subgraph is hamiltonian",
+    "journal": "Applied Mathematics and Computation",
+    "volume": "392",
+    "year": 2021,
+    "month": "1 March",
+    "articleNumber": "125714",
+    "doi": "https://doi.org/10.1016/j.amc.2020.125714"
+  },
+  {
+    "authors": "G. Brinkmann, T. Tucker, N. Van Cleemput",
+    "title": "On the genera of polyhedral embeddings of cubic graphs",
+    "journal": "Discrete Mathematics & Theoretical Computer Science",
+    "volume": "23:3",
+    "year": 2021,
+    "articleNumber": "#13",
+    "link": "https://dmtcs.episciences.org/8657/pdf"
+  },
+  {
+    "authors": "K. Coolsaet, P. Goetschalckx, N. Van Cleemput",
+    "title": "Local Orientation-Preserving Symmetry Preserving Operations on Polyhedra",
+    "journal": "Discrete Mathematics",
+    "volume": "344",
+    "issue": "1",
+    "year": 2021,
+    "doi": "https://doi.org/10.1016/j.disc.2020.112156"
+  },
+  {
+    "authors": "P. Goetschalckx, N. Van Cleemput, K. Coolsaet",
+    "title": "Generation of Local Symmetry-Preserving Operations on Polyhedra",
+    "journal": "Ars Mathematica Contemporanea",
+    "volume": "18",
+    "issue": "2",
+    "year": 2020,
+    "pages": "223-239",
+    "link": "https://amc-journal.eu/index.php/amc/article/view/1931",
+    "doi": "https://doi.org/10.26493/1855-3974.1931.9cf"
+  },
+  {
+    "authors": "A. Bradford, J. K. Day, L. Hutchinson, B. Kaperick, C. E. Larson, M. Mills, D. Muncy, N. Van Cleemput",
+    "title": "Automated Conjecturing II: Chomp and Reasoned Game Play",
+    "journal": "Journal of Artificial Intelligence Research (JAIR)",
+    "volume": "68",
+    "year": 2020,
+    "pages": "447-461",
+    "doi": "https://doi.org/10.1613/jair.1.12188"
+  },
+  {
+    "authors": "O.-H. S. Lo, J. M. Schmidt, N. Van Cleemput, C. T. Zamfirescu",
+    "title": "Shortness Coefficient of Cyclically 4-Edge-Connected Cubic Graphs",
+    "journal": "The Electronic Journal of Combinatorics",
+    "volume": "27",
+    "issue": "1",
+    "year": 2020,
+    "articleNumber": "P1.43"
+  },
+  {
+    "authors": "N. Vandersickel, E. Van Nieuwenhuyse, N. Van Cleemput, J. Goedgebeur, M. El Haddad, J. De Neve, A. Demolder, T. Strisciuglio, M. Duytschaever and A.V. Panfilov",
+    "title": "Directed Networks as a Novel Way to Describe and Analyze Cardiac Excitation: Directed Graph Mapping",
+    "journal": "Frontiers in Physiology",
+    "volume": "10:1138",
+    "year": 2019,
+    "pages": "14 pages",
+    "doi": "https://doi.org/10.3389/fphys.2019.01138"
+  },
+  {
+    "authors": "J. Goedgebeur, K. Ozeki, N. Van Cleemput, G. Wiener",
+    "title": "On the minimum leaf number of cubic graphs",
+    "journal": "Discrete Mathematics",
+    "volume": "342",
+    "issue": "11",
+    "year": 2019,
+    "pages": "3000-3005",
+    "arxiv": "https://arxiv.org/abs/1806.04451",
+    "doi": "https://doi.org/10.1016/j.disc.2019.06.005"
+  },
+  {
+    "authors": "N. Van Cleemput",
+    "title": "Hamiltonian-connectedness of triangulations with few separating triangles",
+    "journal": "Contributions to Discrete Mathematics",
+    "volume": "14",
+    "issue": "1",
+    "year": 2019,
+    "pages": "71-79",
+    "link": "https://cdm.ucalgary.ca/article/view/62582",
+    "doi": "https://doi.org/10.11575/cdm.v14i1.62582"
+  },
+  {
+    "authors": "G. Brinkmann, K. Ozeki, N. Van Cleemput",
+    "title": "Types of triangle in plane Hamiltonian triangulations and applications to domination and k-walks",
+    "journal": "Ars Mathematica Contemporanea",
+    "volume": "17",
+    "issue": "1",
+    "year": 2019,
+    "pages": "51-66",
+    "link": "http://amc-journal.eu/index.php/amc/article/view/1733"
+  },
+  {
+    "authors": "N. Van Cleemput, C. T. Zamfirescu",
+    "title": "Regular Non-Hamiltonian Polyhedral Graphs",
+    "journal": "Applied Mathematics and Computation",
+    "volume": "338",
+    "year": 2018,
+    "pages": "192-206",
+    "doi": "https://doi.org/10.1016/j.amc.2018.05.062"
+  },
+  {
+    "authors": "K. Ozeki, N. Van Cleemput, C. T. Zamfirescu",
+    "title": "Hamiltonian properties in plane graphs with few 3-cuts - a survey",
+    "journal": "Discrete Mathematics",
+    "volume": "341",
+    "issue": "9",
+    "year": 2018,
+    "pages": "2646-2660",
+    "doi": "https://doi.org/10.1016/j.disc.2018.06.015"
+  },
+  {
+    "authors": "L. Hutchinson, V. Kamat, C. E. Larson, S. Mehta, D. Muncy, and N. Van Cleemput",
+    "title": "Automated Conjecturing VI: Domination Number of Benzenoids",
+    "journal": "MATCH Commun. Math. Comput. Chem.",
+    "volume": "80",
+    "issue": "3",
+    "year": 2018,
+    "pages": "821-834",
+    "link": "http://match.pmf.kg.ac.rs/electronic_versions/Match80/n3/match80n3_821-834.pdf"
+  },
+  {
+    "authors": "G. Brinkmann, J. Souffriau, N. Van Cleemput",
+    "title": "On the number of hamiltonian cycles in triangulations with few separating triangles",
+    "journal": "Journal of Graph Theory",
+    "volume": "87",
+    "issue": "2",
+    "year": 2018,
+    "pages": "164-175",
+    "doi": "http://dx.doi.org/10.1002/jgt.22149"
+  },
+  {
+    "authors": "C.E. Larson, N. Van Cleemput",
+    "title": "Automated Conjecturing I: Fajtlowicz's Dalmatian Heuristic Revisited (Extended Abstract)",
+    "journal": "Proceedings of the 2017 International Joint Conference on Artificial Intelligence (IJCAI-17)",
+    "year": 2017,
+    "location": "Melbourne"
+  },
+  {
+    "authors": "C.E. Larson, N. Van Cleemput",
+    "title": "Automated Conjecturing III: Property-relations conjectures",
+    "journal": "Annals of Mathematics and Artificial Intelligence",
+    "volume": "81",
+    "issue": "3",
+    "year": 2017,
+    "pages": "315-327",
+    "doi": "http://dx.doi.org/10.1007/s10472-017-9559-5"
+  },
+  {
+    "authors": "N. Bašić, G. Brinkmann, P.W. Fowler, T. Pisanski, N. Van Cleemput",
+    "title": "Sizes of Pentagonal Clusters in Fullerenes",
+    "journal": "Journal of Mathematical Chemistry",
+    "volume": "55",
+    "issue": "8",
+    "year": 2017,
+    "pages": "1669-1682",
+    "doi": "http://dx.doi.org/10.1007/s10910-017-0754-8"
+  },
+  {
+    "authors": "G. Brinkmann, J. Souffriau, N. Van Cleemput",
+    "title": "On the strongest form of a theorem of Whitney for hamiltonian cycles in plane triangulations",
+    "journal": "Journal of Graph Theory",
+    "volume": "83",
+    "issue": "1",
+    "year": 2016,
+    "pages": "78-91",
+    "doi": "http://dx.doi.org/10.1002/jgt.21915"
+  },
+  {
+    "authors": "C.E. Larson, N. Van Cleemput",
+    "title": "Automated Conjecturing I: Fajtlowicz's Dalmatian Heuristic Revisited",
+    "journal": "Artificial Intelligence",
+    "volume": "231",
+    "year": 2016,
+    "pages": "17-38"
+  },
+  {
+    "authors": "T. Kaiser, M. Saumell, N. Van Cleemput",
+    "title": "10-Gabriel graphs are Hamiltonian",
+    "journal": "Information Processing Letters",
+    "volume": "115",
+    "year": 2015,
+    "pages": "877-881",
+    "doi": "http://dx.doi.org/10.1016/j.ipl.2015.05.013"
+  },
+  {
+    "authors": "G. Brinkmann, C.E. Larson, J. Souffriau, N. Van Cleemput",
+    "title": "Construction of planar 4-connected triangulations",
+    "journal": "Ars Mathematica Contemporanea",
+    "volume": "9",
+    "issue": "2",
+    "year": 2015,
+    "pages": "145-159",
+    "link": "http://amc-journal.eu/index.php/amc/article/view/459"
+  },
+  {
+    "authors": "I. Althöfer, J.K. Haugland, K. Scherer, F. Schneider, N. Van Cleemput",
+    "title": "Alternating Plane Graphs",
+    "journal": "Ars Mathematica Contemporanea",
+    "volume": "8",
+    "issue": "2",
+    "year": 2015,
+    "pages": "337-363",
+    "link": "http://amc-journal.eu/index.php/amc/article/view/584"
+  },
+  {
+    "authors": "Y. Akama, N. Van Cleemput",
+    "title": "Spherical tilings by congruent quadrangles: Forbidden cases and substructures",
+    "journal": "Ars Mathematica Contemporanea",
+    "volume": "8",
+    "issue": "2",
+    "year": 2015,
+    "pages": "297-318",
+    "link": "http://amc-journal.eu/index.php/amc/article/view/581"
+  },
+  {
+    "authors": "G. Brinkmann, J. Goedgebeur, N. Van Cleemput",
+    "title": "The history of the generation of cubic graphs",
+    "journal": "International Journal of Chemical Modeling",
+    "volume": "5",
+    "issue": "2-3",
+    "year": 2013,
+    "pages": "67-89"
+  },
+  {
+    "authors": "C.E. Larson, N. Van Cleemput",
+    "title": "Forcing independence",
+    "journal": "Croat. Chem. Acta",
+    "volume": "86",
+    "issue": "4",
+    "year": 2013,
+    "pages": "469-475",
+    "doi": "http://dx.doi.org/10.5562/cca2295",
+    "link": "http://public.carnet.hr/ccacaa/prev.html",
+    "link2": "http://hrcak.srce.hr/index.php?show=clanak&id_clanak_jezik=166555"
+  },
+  {
+    "authors": "G. Brinkmann, N. Van Cleemput, T.Pisanski",
+    "title": "Generation of various classes of trivalent graphs",
+    "journal": "Theoretical Computer Science",
+    "volume": "502",
+    "year": 2013,
+    "pages": "16-29",
+    "doi": "http://dx.doi.org/10.1016/j.tcs.2012.01.018"
+  },
+  {
+    "authors": "G. Brinkmann, N. Van Cleemput",
+    "title": "Classification and Generation of Nanocones",
+    "journal": "Discrete Applied Mathematics",
+    "volume": "159",
+    "issue": "15",
+    "year": 2011,
+    "pages": "1528-1539"
+  },
+  {
+    "authors": "G. Brinkmann, O. Delgado Friedrichs, S. Lisken, A. Peeters, N. Van Cleemput",
+    "title": "CaGe - a Virtual Environment for Studying Some Special Classes of Plane Graphs - an Update",
+    "journal": "MATCH Commun. Math. Comput. Chem.",
+    "volume": "63",
+    "issue": "3",
+    "year": 2010,
+    "pages": "533-552",
+    "link": "http://match.pmf.kg.ac.rs/electronic_versions/Match63/n3/match63n3_533-552.pdf"
+  },
+  {
+    "authors": "G. Brinkmann, O. Delgado-Friedrichs, E.C. Kirby, N. Van Cleemput",
+    "title": "A Catalogue of Periodic Fully-Resonant Azulene-Transitive Azulenoid Tilings Analogous to Clar Structures",
+    "journal": "Croat. Chem. Acta",
+    "volume": "82",
+    "issue": "4",
+    "year": 2009,
+    "pages": "781-789",
+    "link": "http://public.carnet.hr/ccacaa/prev.html",
+    "link2": "http://hrcak.srce.hr/index.php?show=clanak&id_clanak_jezik=70551"
+  },
+  {
+    "authors": "A. Peeters, K. Coolsaet, G. Brinkmann, N. Van Cleemput, V. Fack",
+    "title": "GrInvIn in a Nutshell",
+    "journal": "Journal of Mathematical Chemistry",
+    "volume": "45",
+    "year": 2009,
+    "pages": "471-477",
+    "doi": "http://dx.doi.org/10.1007/s10910-008-9420-5"
+  }
+]

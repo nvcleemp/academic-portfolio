@@ -1,0 +1,50 @@
+[
+  {
+    "institution": "VCU",
+    "location": "Richmond, VA, United States",
+    "dates": "22/08/2014 - 15/09/2014",
+    "purpose": "to work with Craig Larson"
+  },
+  {
+    "institution": "UCLA",
+    "location": "Los Angeles, CA, United States",
+    "dates": "23/01/2016 - 05/02/2016",
+    "purpose": "to work with Stan Schein"
+  },
+  {
+    "institution": "VCU",
+    "location": "Richmond, VA, United States",
+    "dates": "25/03/2016 - 15/03/2016",
+    "purpose": "to work with Craig Larson"
+  },
+  {
+    "institution": "UCLA",
+    "location": "Los Angeles, CA, United States",
+    "dates": "19/01/2017 - 27/01/2017",
+    "purpose": "to work with Stan Schein"
+  },
+  {
+    "institution": "VCU",
+    "location": "Richmond, VA, United States",
+    "dates": "03/09/2017 - 14/09/2017",
+    "purpose": "to work with Craig Larson"
+  },
+  {
+    "institution": "UCLA",
+    "location": "Los Angeles, CA, United States",
+    "dates": "05/04/2018 - 18/04/2018",
+    "purpose": "to work with Stan Schein"
+  },
+  {
+    "institution": "Salt Rock workshop",
+    "location": "Salt Rock, South-Africa",
+    "dates": "26/01/2019 - 05/02/2019",
+    "purpose": "to work on planar hypohamiltonian oriented graphs"
+  },
+  {
+    "institution": "GERAD",
+    "location": "Montréal, Canada",
+    "dates": "19/08/2019 - 25/08/2019",
+    "purpose": "to work with Gilles Caporossi and Eglantine Camby"
+  }
+]

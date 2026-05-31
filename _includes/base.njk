@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="Academic website of Nico Van Cleemput - Research in graph theory, combinatorics, and structure generation">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <title>{{ title or "Nico Van Cleemput" }}</title>
+  
+  <!-- Fonts -->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500;700&display=swap" rel="stylesheet">
+  
+  <!-- Stylesheet -->
+  <link rel="stylesheet" href="/styles.css">
+</head>
+<body>
+  <!-- Tab radio inputs (hidden, at root level for CSS selectors) -->
+  <input type="radio" name="tabs" id="tab-contact" class="tab-input" checked aria-label="Contact tab">
+  <input type="radio" name="tabs" id="tab-cv" class="tab-input" aria-label="CV tab">
+  <input type="radio" name="tabs" id="tab-publications" class="tab-input" aria-label="Publications tab">
+  <input type="radio" name="tabs" id="tab-conferences" class="tab-input" aria-label="Conferences tab">
+  <input type="radio" name="tabs" id="tab-software" class="tab-input" aria-label="Software tab">
+  
+  <div class="page-wrapper">
+    <header class="site-header">
+      <div class="header-content">
+        <h1 class="site-title">Nico Van Cleemput</h1>
+        <nav class="tab-navigation" role="navigation" aria-label="Main navigation">
+          <div class="tab-labels">
+            <label for="tab-contact" class="tab-label">Contact</label>
+            <label for="tab-cv" class="tab-label">CV</label>
+            <label for="tab-publications" class="tab-label">Publications</label>
+            <label for="tab-conferences" class="tab-label">Conferences</label>
+            <label for="tab-software" class="tab-label">Software</label>
+          </div>
+        </nav>
+      </div>
+    </header>
+    
+    <main class="main-content">
+      {{ content | safe }}
+    </main>
+    
+    <footer class="site-footer">
+      <p>&copy; {{ currentYear or "2026" }} Nico Van Cleemput - !!!!!</p>
+    </footer>
+  </div>
+</body>
+</html>

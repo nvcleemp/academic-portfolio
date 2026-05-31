@@ -1,0 +1,16 @@
+{
+  "name": "nico-van-cleemput-academic",
+  "version": "1.0.0",
+  "description": "Academic website for Nico Van Cleemput",
+  "scripts": {
+    "start": "eleventy --serve",
+    "build": "eleventy",
+    "clean": "rm -rf _site"
+  },
+  "keywords": ["academic", "portfolio", "eleventy"],
+  "author": "Nico Van Cleemput",
+  "license": "MIT",
+  "devDependencies": {
+    "@11ty/eleventy": "^2.0.1"
+  }
+}

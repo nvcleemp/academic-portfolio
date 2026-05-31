@@ -1,0 +1,609 @@
+[
+  {
+    "type": "talk",
+    "title": "Educational innovation day of Ghent University",
+    "location": "Ghent, Belgium",
+    "date": "10/05/2007",
+    "talkTitle": "Educational innovation",
+    "notes": "Dutch",
+    "links": [
+      { "type": "abstract", "url": "/docs/abstracts/oid.html" },
+      { "type": "slides", "url": "/docs/slides/oid.pdf" }
+    ]
+  },
+  {
+    "type": "talk",
+    "title": "6th Cologne-Twente Workshop on Graphs and Combinatorial Optimization",
+    "location": "Enschede, Netherlands",
+    "date": "29-31/05/2007",
+    "talkTitle": "Plenary talk",
+    "notes": "with Gunnar Brinkmann",
+    "links": [
+      { "type": "abstract", "url": "/docs/abstracts/twente.pdf" },
+      { "type": "slides", "url": "/docs/slides/twente.pdf" }
+    ]
+  },
+  {
+    "type": "talk",
+    "title": "MATH / CHEM / COMP",
+    "location": "Verbania, Italy",
+    "date": "10-13/06/2008",
+    "talkTitle": "Toroidal Azulenoids",
+    "links": [
+      { "type": "abstract", "url": "/docs/abstracts/mcc08.pdf" },
+      { "type": "slides", "url": "/docs/slides/mcc08.pdf" }
+    ]
+  },
+  {
+    "type": "talk",
+    "title": "(Informal) Workshop on Structural and Computational Graph Theory",
+    "location": "Ghent, Belgium",
+    "date": "20/06/2008",
+    "talkTitle": "Toroidal Azulenoids",
+    "links": [
+      { "type": "abstract", "url": "/docs/abstracts/workshop08.pdf" },
+      { "type": "slides", "url": "/docs/slides/workshop08.pdf" }
+    ]
+  },
+  {
+    "type": "talk",
+    "title": "Colloquium on Combinatorics",
+    "location": "Magdeburg, Germany",
+    "date": "13-14/11/2008",
+    "talkTitle": "Toroidal Azulenoids",
+    "links": [
+      { "type": "abstract", "url": "/docs/abstracts/kolkom08.pdf" },
+      { "type": "slides", "url": "/docs/slides/kolkom08.pdf" }
+    ]
+  },
+  {
+    "type": "talk",
+    "title": "8th Cologne-Twente Workshop on Graphs and Combinatorial Optimization",
+    "location": "Paris, France",
+    "date": "02-04/06/2009",
+    "talkTitle": "Nanocones: A classification result in chemistry",
+    "links": [
+      { "type": "abstract", "url": "/docs/abstracts/ctw09.pdf" },
+      { "type": "slides", "url": "/docs/slides/ctw09.pdf" }
+    ]
+  },
+  {
+    "type": "talk",
+    "title": "MATH / CHEM / COMP",
+    "location": "Dubrovnik, Croatia",
+    "date": "08-13/06/2009",
+    "talkTitle": "Nanocones: A classification result in chemistry",
+    "links": [
+      { "type": "abstract", "url": "/docs/abstracts/mcc09.pdf" },
+      { "type": "slides", "url": "/docs/slides/mcc09.pdf" }
+    ]
+  },
+  {
+    "type": "talk",
+    "title": "Colloquium on Combinatorics",
+    "location": "Magdeburg, Germany",
+    "date": "13-14/11/2009",
+    "talkTitle": "Nanocones: A classification result in chemistry",
+    "links": [
+      { "type": "abstract", "url": "/docs/abstracts/kolkom09.pdf" },
+      { "type": "slides", "url": "/docs/slides/kolkom09.pdf" }
+    ]
+  },
+  {
+    "type": "talk",
+    "title": "MATH / CHEM / COMP",
+    "location": "Dubrovnik, Croatia",
+    "date": "07-12/06/2010",
+    "talkTitle": "CaGe: A virtual environment for studying some special classes of plane graphs",
+    "links": [
+      { "type": "abstract", "url": "/docs/abstracts/mcc10.pdf" },
+      { "type": "slides", "url": "/docs/slides/mcc10.pdf" }
+    ]
+  },
+  {
+    "type": "talk",
+    "title": "8th French Combinatorial Conference",
+    "location": "Orsay, France",
+    "date": "28/06/2010 - 02/07/2010",
+    "talkTitle": "Generation of generalized 3-regular graphs",
+    "links": [
+      { "type": "abstract", "url": "/docs/abstracts/8fcc.pdf" },
+      { "type": "slides", "url": "/docs/slides/8fcc.pdf" }
+    ]
+  },
+  {
+    "type": "talk",
+    "title": "Computers in Scientific Discovery 5",
+    "location": "Sheffield, UK",
+    "date": "20-23/07/2010",
+    "talkTitle": "Generation of generalized 3-regular graphs",
+    "links": [
+      { "type": "abstract", "url": "/docs/abstracts/csd5.html" },
+      { "type": "slides", "url": "/docs/slides/csd5.pdf" }
+    ]
+  },
+  {
+    "type": "talk",
+    "title": "Colloquium on Combinatorics",
+    "location": "Saarbrücken, Germany",
+    "date": "11-13/11/2010",
+    "talkTitle": "Generation of generalized 3-regular graphs",
+    "links": [
+      { "type": "abstract", "url": "/docs/abstracts/kolkom10.html" },
+      { "type": "slides", "url": "/docs/slides/kolkom10.pdf" }
+    ]
+  },
+  {
+    "type": "talk",
+    "title": "CanaDAM",
+    "location": "Victoria, Canada",
+    "date": "31/05/2011-03/06/2011",
+    "talkTitle": "CaGe: A virtual environment for studying some special classes of plane graphs",
+    "links": [
+      { "type": "abstract", "url": "/docs/abstracts/canadam11.pdf" },
+      { "type": "slides", "url": "/docs/slides/canadam11.pdf" }
+    ]
+  },
+  {
+    "type": "talk",
+    "title": "Informal mini-workshop",
+    "location": "Ghent, Belgium",
+    "date": "08/09/2011",
+    "talkTitle": "Generation of Delaney-Dress symbols",
+    "links": [
+      { "type": "slides", "url": "/docs/slides/workshop2011.pdf" }
+    ]
+  },
+  {
+    "type": "talk",
+    "title": "Colloquium on Combinatorics",
+    "location": "Magdeburg, Germany",
+    "date": "11-12/11/2011",
+    "talkTitle": "Generation of Delaney-Dress symbols",
+    "links": [
+      { "type": "abstract", "url": "/docs/abstracts/kolkom11.pdf" },
+      { "type": "slides", "url": "/docs/slides/kolkom11.pdf" }
+    ]
+  },
+  {
+    "type": "talk",
+    "title": "ICCAM 2012 - International Congress on Computational and Applied Mathematics",
+    "location": "Ghent, Belgium",
+    "date": "09-13/07/2012",
+    "talkTitle": "Nanocones: A classification result in chemistry",
+    "links": [
+      { "type": "abstract", "url": "/docs/abstracts/iccam2012.pdf" },
+      { "type": "slides", "url": "/docs/slides/iccam2012.pdf" }
+    ]
+  },
+  {
+    "type": "talk",
+    "title": "Computers in Scientific Discovery 6",
+    "location": "Portoroz, Slovenia",
+    "date": "21-25/08/2012",
+    "talkTitle": "Generation of Delaney-Dress symbols",
+    "links": [
+      { "type": "abstract", "url": "/docs/abstracts/csd6.html" },
+      { "type": "slides", "url": "/docs/slides/csd6.pdf" }
+    ]
+  },
+  {
+    "type": "talk",
+    "title": "Informal workshop",
+    "location": "Ghent, Belgium",
+    "date": "30-31/08/2012",
+    "talkTitle": "Spherical tilings by congruent quadrangles",
+    "notes": "black board presentation"
+  },
+  {
+    "type": "talk",
+    "title": "PhD defense",
+    "location": "Ghent, Belgium",
+    "date": "21/09/2012",
+    "links": [
+      { "type": "slides", "url": "/docs/slides/public-defense.pdf" }
+    ]
+  },
+  {
+    "type": "talk",
+    "title": "Colloquium on Combinatorics",
+    "location": "Berlin, Germany",
+    "date": "16-17/11/2012",
+    "talkTitle": "Spherical tilings by congruent quadrangles",
+    "links": [
+      { "type": "abstract", "url": "/docs/abstracts/kolkom12.pdf" },
+      { "type": "slides", "url": "/docs/slides/kolkom12.pdf" }
+    ]
+  },
+  {
+    "type": "talk",
+    "title": "CanaDAM",
+    "location": "St.-John's, Canada",
+    "date": "10/06/2013-13/06/2013",
+    "talkTitle": "Spherical tilings by congruent quadrangles",
+    "links": [
+      { "type": "abstract", "url": "/docs/abstracts/canadam13.pdf" },
+      { "type": "slides", "url": "/docs/slides/canadam13.pdf" }
+    ]
+  },
+  {
+    "type": "talk",
+    "title": "GraphDay@ULB",
+    "location": "Brussels, Belgium",
+    "date": "02/10/2013",
+    "talkTitle": "Hamiltonian cycles in triangulations",
+    "links": [
+      { "type": "abstract", "url": "/docs/abstracts/graphdayULB13.pdf" },
+      { "type": "slides", "url": "/docs/slides/graphdayULB13.pdf" }
+    ]
+  },
+  {
+    "type": "talk",
+    "title": "Graph theory seminar",
+    "location": "Pilsen, Czech Republic",
+    "date": "19/11/2013",
+    "talkTitle": "Hamiltonian cycles in triangulations",
+    "links": [
+      { "type": "slides", "url": "/docs/slides/seminar20131119.pdf" }
+    ]
+  },
+  {
+    "type": "talk",
+    "title": "Graph theory seminar",
+    "location": "Pilsen, Czech Republic",
+    "date": "25/02/2014",
+    "talkTitle": "Structure generation",
+    "links": [
+      { "type": "slides", "url": "/docs/slides/seminar20140225.pdf" }
+    ]
+  },
+  {
+    "type": "talk",
+    "title": "ICGT 2014",
+    "location": "Grenoble, France",
+    "date": "30/06/2014 - 04/07/2014",
+    "talkTitle": "On the strongest form of a theorem of Whitney for hamiltonian cycles in plane triangulations",
+    "links": [
+      { "type": "slides", "url": "/docs/slides/icgt2014.pdf" }
+    ]
+  },
+  {
+    "type": "talk",
+    "title": "VCU Discrete Mathematics Seminar",
+    "location": "Richmond, USA",
+    "date": "02/09/2014",
+    "talkTitle": "On the strongest form of a theorem of Whitney for hamiltonian cycles in plane triangulations",
+    "links": [
+      { "type": "abstract", "url": "/docs/abstracts/VCU_20140902.pdf" },
+      { "type": "slides", "url": "/docs/slides/VCU_20140902.pdf" },
+      { "type": "handouts", "url": "/docs/slides/VCU_20140902_handouts.pdf" }
+    ]
+  },
+  {
+    "type": "talk",
+    "title": "VCU Discrete Mathematics Seminar",
+    "location": "Richmond, USA",
+    "date": "09/09/2014",
+    "talkTitle": "Structure generation - a case study",
+    "links": [
+      { "type": "abstract", "url": "/docs/abstracts/VCU_20140909.pdf" },
+      { "type": "slides", "url": "/docs/slides/VCU_20140909.pdf" },
+      { "type": "handouts", "url": "/docs/slides/VCU_20140909_handouts.pdf" }
+    ]
+  },
+  {
+    "type": "talk",
+    "title": "CAAGT seminar",
+    "location": "Ghent, Belgium",
+    "date": "08/12/2014",
+    "talkTitle": "Conway's Thrackle Conjecture",
+    "notes": "black board talk"
+  },
+  {
+    "type": "talk",
+    "title": "CAAGT seminar",
+    "location": "Ghent, Belgium",
+    "date": "27/03/2015, 03/04/2015, 17/04/2015",
+    "talkTitle": "Generation of Delaney-Dress symbols",
+    "notes": "black board talk in three parts"
+  },
+  {
+    "type": "talk",
+    "title": "Computers in Scientific Discovery 7",
+    "location": "Richmond, USA",
+    "date": "19-23/07/2015",
+    "talkTitle": "Classification and generation of nanocones",
+    "notes": "invited talk",
+    "links": [
+      { "type": "slides", "url": "/docs/slides/csd7.pdf" }
+    ]
+  },
+  {
+    "type": "talk",
+    "title": "Cycles and Colourings 2015",
+    "location": "Novy Smokovec, Slovakia",
+    "date": "07-11/09/2015",
+    "talkTitle": "On the number of hamiltonian cycles in triangulations with few separating triangles",
+    "links": [
+      { "type": "slides", "url": "/docs/slides/CandC2015.pdf" }
+    ]
+  },
+  {
+    "type": "talk",
+    "title": "Colloquium on Combinatorics",
+    "location": "Ilmenau, Germany",
+    "date": "6-7/11/2015",
+    "talkTitle": "On the strongest form of a theorem of Whitney for hamiltonian cycles in plane triangulations",
+    "links": [
+      { "type": "abstract", "url": "/docs/abstracts/kolkom15.pdf" },
+      { "type": "slides", "url": "/docs/slides/kolkom15.pdf" },
+      { "type": "handouts", "url": "/docs/slides/kolkom15_handouts.pdf" }
+    ]
+  },
+  {
+    "type": "talk",
+    "title": "VCU Discrete Mathematics Seminar",
+    "location": "Richmond, USA",
+    "date": "05/04/2016",
+    "talkTitle": "On the number of hamiltonian cycles in triangulations with few separating triangles",
+    "links": [
+      { "type": "abstract", "url": "/docs/abstracts/VCU_20160405.pdf" },
+      { "type": "slides", "url": "/docs/slides/VCU_20160405.pdf" },
+      { "type": "handouts", "url": "/docs/slides/VCU_20160405_handouts.pdf" }
+    ]
+  },
+  {
+    "type": "talk",
+    "title": "Ghent Graph Theory Workshop on Longest Paths and Longest Cycles",
+    "location": "Ghent, Belgium",
+    "date": "1-2/08/2016",
+    "talkTitle": "Connections between decomposition trees of 3-connected plane triangulations and hamiltonian properties",
+    "notes": "invited talk",
+    "links": [
+      { "type": "slides", "url": "/docs/slides/LPLC2016.pdf" },
+      { "type": "handouts", "url": "/docs/slides/LPLC2016_handouts.pdf" }
+    ]
+  },
+  {
+    "type": "talk",
+    "title": "Colloquium on Combinatorics",
+    "location": "Paderborn, Germany",
+    "date": "4-5/11/2016",
+    "talkTitle": "On the number of hamiltonian cycles in triangulations with few separating triangles",
+    "links": [
+      { "type": "abstract", "url": "/docs/abstracts/kolkom16.pdf" },
+      { "type": "slides", "url": "/docs/slides/kolkom16.pdf" },
+      { "type": "handouts", "url": "/docs/slides/kolkom16_handouts.pdf" }
+    ]
+  },
+  {
+    "type": "talk",
+    "title": "CAAGT seminar",
+    "location": "Ghent, Belgium",
+    "date": "28/04/2017",
+    "talkTitle": "Type-0 triangles",
+    "links": [
+      { "type": "slides", "url": "/docs/slides/caagt20170428.pdf" },
+      { "type": "handouts", "url": "/docs/slides/caagt20170428_handouts.pdf" }
+    ]
+  },
+  {
+    "type": "talk",
+    "title": "Computers in Scientific Discovery 8",
+    "location": "Mons, Belgium",
+    "date": "23-25/08/2017",
+    "talkTitle": "Non-hamiltonian and non-traceable regular 3-connected planar graphs",
+    "links": [
+      { "type": "abstract", "url": "/docs/abstracts/CSD8.pdf" },
+      { "type": "slides", "url": "/docs/slides/CSD8.pdf" },
+      { "type": "handouts", "url": "/docs/slides/CSD8_handouts.pdf" }
+    ]
+  },
+  {
+    "type": "talk",
+    "title": "Colloquium on Combinatorics",
+    "location": "Paderborn, Germany",
+    "date": "24-25/11/2017",
+    "talkTitle": "Non-hamiltonian and non-traceable regular 3-connected planar graphs",
+    "links": [
+      { "type": "abstract", "url": "/docs/abstracts/kolkom17.pdf" },
+      { "type": "slides", "url": "/docs/slides/kolkom17.pdf" },
+      { "type": "handouts", "url": "/docs/slides/kolkom17_handouts.pdf" }
+    ]
+  },
+  {
+    "type": "talk",
+    "title": "Bucharest Graph Theory Workshop 2018",
+    "location": "Bucharest, Roumania",
+    "date": "15-17/08/2018",
+    "talkTitle": "Non-hamiltonian and non-traceable regular 3-connected planar graphs",
+    "notes": "invited talk",
+    "links": [
+      { "type": "abstract", "url": "/docs/abstracts/BGTW2018.pdf" },
+      { "type": "slides", "url": "/docs/slides/BGTW2018.pdf" },
+      { "type": "handouts", "url": "/docs/slides/BGTW2018_handouts.pdf" }
+    ]
+  },
+  {
+    "type": "talk",
+    "title": "Colloquium on Combinatorics",
+    "location": "Paderborn, Germany",
+    "date": "23-24/11/2018",
+    "talkTitle": "Shortness coefficient of cyclically 4-edge-connected cubic graphs",
+    "links": [
+      { "type": "abstract", "url": "/docs/abstracts/kolkom18.pdf" },
+      { "type": "slides", "url": "/docs/slides/kolkom18.pdf" },
+      { "type": "handouts", "url": "/docs/slides/kolkom18_handouts.pdf" }
+    ]
+  },
+  {
+    "type": "talk",
+    "title": "10th Workshop on the Matthews-Sumner Conjecture and related Problems",
+    "location": "Pilsen, Czech Republic",
+    "date": "14-19/04/2019",
+    "talkTitle": "Shortness coefficient of cyclically 4-edge-connected cubic graphs",
+    "links": [
+      { "type": "abstract", "url": "/docs/abstracts/plzen19.pdf" },
+      { "type": "slides", "url": "/docs/slides/plzen19.pdf" },
+      { "type": "handouts", "url": "/docs/slides/plzen19_handouts.pdf" }
+    ]
+  },
+  {
+    "type": "talk",
+    "title": "Colloquium on Combinatorics",
+    "location": "Paderborn, Germany",
+    "date": "20-21/11/2019",
+    "talkTitle": "4-connected polyhedra have at least a linear number of hamiltonian cycles",
+    "links": [
+      { "type": "abstract", "url": "/docs/abstracts/kolkom19.pdf" },
+      { "type": "slides", "url": "/docs/slides/kolkom19.pdf" },
+      { "type": "handouts", "url": "/docs/slides/kolkom19_handouts.pdf" }
+    ]
+  },
+  {
+    "type": "talk",
+    "title": "CAAGT seminar",
+    "location": "Ghent, Belgium",
+    "date": "28/10/2019",
+    "talkTitle": "Hamiltonian cycles and 1-factors in 5-regular graphs",
+    "notes": "black board talk"
+  },
+  {
+    "type": "talk",
+    "title": "CAAGT seminar",
+    "location": "Ghent, Belgium",
+    "date": "17/01/2020",
+    "talkTitle": "10-Gabriel graphs are hamiltonian",
+    "notes": "black board talk"
+  },
+  {
+    "type": "poster",
+    "title": "Educational innovation day of Ghent University",
+    "location": "Ghent, Belgium",
+    "date": "10/05/2007",
+    "notes": "Dutch",
+    "links": [
+      { "type": "poster", "url": "/docs/posters/grinvin_dutch.pdf" }
+    ]
+  },
+  {
+    "type": "poster",
+    "title": "9th PhD Symposium FirW",
+    "location": "Ghent, Belgium",
+    "date": "04/12/2008",
+    "links": [
+      { "type": "abstract", "url": "/docs/abstracts/firwsymposium.pdf" },
+      { "type": "poster", "url": "/docs/posters/cones.pdf" }
+    ]
+  },
+  {
+    "type": "poster",
+    "title": "Educational innovation day of Ghent University",
+    "location": "Ghent, Belgium",
+    "date": "16/11/2009",
+    "notes": "Dutch",
+    "links": [
+      { "type": "poster", "url": "/docs/posters/grinvin_dutch.pdf" }
+    ]
+  },
+  {
+    "type": "attended",
+    "title": "JavaPolis 2007",
+    "location": "Antwerp, Belgium",
+    "date": "12-14/12/2007"
+  },
+  {
+    "type": "attended",
+    "title": "Devoxx 2008",
+    "location": "Antwerp, Belgium",
+    "date": "10-12/12/2008"
+  },
+  {
+    "type": "attended",
+    "title": "FOSDEM 2009",
+    "location": "Brussels, Belgium",
+    "date": "7-8/02/2009"
+  },
+  {
+    "type": "attended",
+    "title": "5th meeting of the IAMC",
+    "location": "Dubrovnik, Croatia",
+    "date": "13-16/06/2009"
+  },
+  {
+    "type": "attended",
+    "title": "Devoxx 2009",
+    "location": "Antwerp, Belgium",
+    "date": "18-20/11/2009"
+  },
+  {
+    "type": "attended",
+    "title": "FOSDEM 2010",
+    "location": "Brussels, Belgium",
+    "date": "6-7/02/2010"
+  },
+  {
+    "type": "attended",
+    "title": "6th meeting of the IAMC",
+    "location": "Dubrovnik, Croatia",
+    "date": "5-6/06/2010"
+  },
+  {
+    "type": "attended",
+    "title": "FOSDEM 2011",
+    "location": "Brussels, Belgium",
+    "date": "5-6/02/2011"
+  },
+  {
+    "type": "attended",
+    "title": "FOSDEM 2012",
+    "location": "Brussels, Belgium",
+    "date": "4-5/02/2012"
+  },
+  {
+    "type": "attended",
+    "title": "FOSDEM 2013",
+    "location": "Brussels, Belgium",
+    "date": "2-3/02/2013"
+  },
+  {
+    "type": "attended",
+    "title": "GraphDay@Mons",
+    "location": "Mons, Belgium",
+    "date": "5/03/2013"
+  },
+  {
+    "type": "attended",
+    "title": "Winter school on Algorithm Design",
+    "location": "Beroun, Czech Republic",
+    "date": "12/12/2013 - 15/12/2013"
+  },
+  {
+    "type": "attended",
+    "title": "Mathematics in Chemistry meeting",
+    "location": "Leipzig, Germany",
+    "date": "26/10/2016 - 28/10/2016"
+  },
+  {
+    "type": "attended",
+    "title": "9th Workshop on the Matthews-Sumner Conjecture and related Problems",
+    "location": "Pilsen, Czech Republic",
+    "date": "09/04/2017 - 14/04/2017"
+  },
+  {
+    "type": "organized",
+    "title": "Ghent Graph Theory Workshop on Structure and Algorithms 2017",
+    "location": "Ghent, Belgium",
+    "date": "16/08/2017 - 18/08/2017",
+    "collaborators": "together with Jan Goedgebeur and Carol T. Zamfirescu",
+    "url": "http://www.ggtw.ugent.be/2017"
+  },
+  {
+    "type": "organized",
+    "title": "Ghent Graph Theory Workshop on Structure and Algorithms 2019",
+    "location": "Ghent, Belgium",
+    "date": "12/08/2019 - 14/08/2019",
+    "collaborators": "together with Jan Goedgebeur and Carol T. Zamfirescu",
+    "url": "http://www.ggtw.ugent.be"
+  }
+]

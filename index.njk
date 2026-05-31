@@ -111,8 +111,15 @@ title: Nico Van Cleemput
 <div class="tab-panel" data-tab="publications">
   <section class="section">
     <h2 class="section-title">Publications</h2>
-    <ol reversed class="publications-list" style="counter-reset: publication {{ publications | length + 1 }};">
+    {%- set publishedCount = 0 -%}
+    {%- for pub in publications -%}
+      {%- if not pub.status -%}
+        {%- set publishedCount = publishedCount + 1 -%}
+      {%- endif -%}
+    {%- endfor -%}
+    <ol reversed class="publications-list" style="counter-reset: publication {{ publishedCount + 1 }};">
       {% for pub in publications %}
+      {% if not pub.status %}
       <li{% if pub.status == "submitted" %} class="not-accepted"{% endif %}>
         {{ pub.authors }}, <em>{{ pub.title }}</em>
         {%- if pub.journal %}, {{ pub.journal }}
@@ -139,6 +146,7 @@ title: Nico Van Cleemput
         </ul>
         {%- endif %}
       </li>
+      {% endif %}
       {% endfor %}
     </ol>
   </section>

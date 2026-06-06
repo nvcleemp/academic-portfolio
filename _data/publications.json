@@ -5,6 +5,18 @@
     "status": "in preparation"
   },
   {
+    "authors": "N. Van Cleemput, C. T. Zamfirescu",
+    "title": "Edge-Kempe classes in planar regular graphs",
+    "status": "submitted",
+    "additionalLinks": [
+      {
+        "label": "Related software",
+        "text": "The programs and scripts to reproduce the results of this paper are available on GitHub.",
+        "url": "https://github.com/nvcleemp/ekc_in_prg"
+      }
+    ]
+  },
+  {
     "authors": "G. Abrishami, F. Rahbarnia, N. Van Cleemput",
     "title": "On non-traceable 3-connected planar cubic graphs of minimum order",
     "journal": "Discrete Mathematics",

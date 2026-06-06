@@ -83,7 +83,14 @@
     "pages": "239-261",
     "month": "May",
     "doi": "https://doi.org/10.1016/j.jctb.2021.12.008",
-    "arxiv": "https://arxiv.org/abs/2008.03173"
+    "arxiv": "https://arxiv.org/abs/2008.03173",
+    "additionalLinks": [
+      {
+        "label": "Related software",
+        "text": "The programs and scripts to reproduce the results of this paper are available on GitHub.",
+        "url": "https://github.com/nvcleemp/hc_1f_5reg"
+      }
+    ]
   },
   {
     "authors": "E. Van Nieuwenhuyse, T. Strisciuglio, G. Lorenzo, M. El Haddad, J. Goedgebeur, N. Van Cleemput, C. Ley, A. V. Panfilov, J. de Pooter, Y. Vandekerckhove, R. Tavernier, M. Duytschaever, S. Knecht, N. Vandersickel",
@@ -113,7 +120,14 @@
     "issue": "1",
     "year": 2022,
     "pages": "50-68",
-    "doi": "https://doi.org/10.1002/jgt.22765"
+    "doi": "https://doi.org/10.1002/jgt.22765",
+    "additionalLinks": [
+      {
+        "label": "Related software",
+        "text": "The programs and scripts to reproduce the results of this paper are available on GitHub.",
+        "url": "https://github.com/nvcleemp/phog"
+      }
+    ]
   },
   {
     "authors": "I. Fabrici, M. Timkov, T. Madaras, N. Van Cleemput, C. T. Zamfirescu",

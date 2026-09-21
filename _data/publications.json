@@ -7,7 +7,11 @@
   {
     "authors": "N. Van Cleemput, C. T. Zamfirescu",
     "title": "Edge-Kempe classes in planar regular graphs",
-    "status": "submitted",
+    "journal": "Graphs and Combinatorics",
+    "volume": "42",
+    "issue": "70",
+    "year": 2026,
+    "doi": "https://doi.org/10.1007/s00373-026-03060-6",
     "additionalLinks": [
       {
         "label": "Related software",

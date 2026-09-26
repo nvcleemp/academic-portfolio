@@ -177,7 +177,7 @@ title: Nico Van Cleemput
       <ul>
         {% for conf in conferences %}
           {% if conf.type == "talk" %}
-        <li>{{ conf.title }} ({{ conf.location }}, {{ conf.date }}): {% if conf.talkTitle %}{{ conf.talkTitle }}{% endif %}{% if conf.notes %} ({{ conf.notes }}){% endif %}{% if conf.links %}: {% for link in conf.links %}<a href="{{ link.url | url }}" target="_blank">{{ link.type | capitalize }}</a>{% if not loop.last %}/{% endif %}{% endfor %}{% endif %}</li>
+        <li>{{ conf.title }} ({{ conf.location }}, {{ conf.date }}): {% if conf.talkTitle %}{{ conf.talkTitle }}{% endif %}{% if conf.notes %} ({{ conf.notes }}){% endif %}{% if conf.links %}: {% for link in conf.links %}<a href="{{ link.url | url }}"{% if link.url.endsWith('.pdf') %} target="_blank"{% endif %}>{{ link.type | capitalize }}</a>{% if not loop.last %}/{% endif %}{% endfor %}{% endif %}</li>
           {% endif %}
         {% endfor %}
       </ul>
@@ -188,7 +188,7 @@ title: Nico Van Cleemput
       <ul>
         {% for conf in conferences %}
           {% if conf.type == "poster" %}
-        <li>{{ conf.title }} ({{ conf.date }}){% if conf.notes %} ({{ conf.notes }}){% endif %}{% if conf.links %}: {% for link in conf.links %}<a href="{{ link.url | url }}" target="_blank">{{ link.type | capitalize }}</a>{% if not loop.last %}/{% endif %}{% endfor %}{% endif %}</li>
+        <li>{{ conf.title }} ({{ conf.date }}){% if conf.notes %} ({{ conf.notes }}){% endif %}{% if conf.links %}: {% for link in conf.links %}<a href="{{ link.url | url }}"{% if link.url.endsWith('.pdf') %} target="_blank"{% endif %}>{{ link.type | capitalize }}</a>{% if not loop.last %}/{% endif %}{% endfor %}{% endif %}</li>
           {% endif %}
         {% endfor %}
       </ul>

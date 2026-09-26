@@ -7,7 +7,7 @@
     "talkTitle": "Educational innovation",
     "notes": "Dutch",
     "links": [
-      { "type": "abstract", "url": "/docs/abstracts/oid.html" },
+      { "type": "abstract", "url": "/docs/abstracts/oid" },
       { "type": "slides", "url": "/docs/slides/oid.pdf" }
     ]
   },
@@ -118,7 +118,7 @@
     "date": "20-23/07/2010",
     "talkTitle": "Generation of generalized 3-regular graphs",
     "links": [
-      { "type": "abstract", "url": "/docs/abstracts/csd5.html" },
+      { "type": "abstract", "url": "/docs/abstracts/csd5" },
       { "type": "slides", "url": "/docs/slides/csd5.pdf" }
     ]
   },
@@ -129,7 +129,7 @@
     "date": "11-13/11/2010",
     "talkTitle": "Generation of generalized 3-regular graphs",
     "links": [
-      { "type": "abstract", "url": "/docs/abstracts/kolkom10.html" },
+      { "type": "abstract", "url": "/docs/abstracts/kolkom10" },
       { "type": "slides", "url": "/docs/slides/kolkom10.pdf" }
     ]
   },
@@ -183,7 +183,7 @@
     "date": "21-25/08/2012",
     "talkTitle": "Generation of Delaney-Dress symbols",
     "links": [
-      { "type": "abstract", "url": "/docs/abstracts/csd6.html" },
+      { "type": "abstract", "url": "/docs/abstracts/csd6" },
       { "type": "slides", "url": "/docs/slides/csd6.pdf" }
     ]
   },

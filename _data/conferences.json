@@ -633,5 +633,16 @@
     "location": "Kranjska Gora, Slovenia",
     "date": "4/05/2026 - 8/05/2026",
     "url": "https://csd11.si/"
+  },
+  {
+    "type": "talk",
+    "title": "Conference on Spatial Structures",
+    "location": "Amsterdam, Netherlands",
+    "date": "21-25/09/2026",
+    "talkTitle": "Combinatorial Tiling Theory",
+    "links": [
+      { "type": "abstract", "url": "/docs/abstracts/css_2026" },
+      { "type": "slides", "url": "/docs/slides/css_2026.pdf" }
+    ]
   }
 ]
